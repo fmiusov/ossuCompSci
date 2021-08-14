@@ -13,3 +13,5 @@
 > You just keep pushing. You just keep pushing. I made every mistake that could be made. But I just kept pushing
 > 
 > **Rene Descartes**
+- k/2 = 1/2k
+- in 25k, 25 is the coefficient and k is the variable
