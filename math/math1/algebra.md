@@ -21,3 +21,4 @@
 - Shift and rewrite statements in equivical ways in order to narrow down the truth of the unknown
 - The key in linear equations is **preserving the equivalence**
 - `x = 0` implies non-equivalence, thus `5x = 6x` is equivalent to `x = 0` in it's shared non-equivalence
+- `x = 5` has one solution, `3 = 5` has no solutions, and `13 = 13` has infinite solutions
